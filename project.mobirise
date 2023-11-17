@@ -53,8 +53,8 @@
     "mcSmartCart": {
       "currency": "USD"
     },
-    "favicon": "@PROJECT_PATH@/assets/images/logo-swoim-szlakiem-128x128.png",
-    "mbrsiteDomain": "ufgle0uwyi",
+    "favicon": false,
+    "mbrsiteDomain": "svemgml6ed",
     "usedWebp": true,
     "cssOptimize": true,
     "lazyLoad": true,
